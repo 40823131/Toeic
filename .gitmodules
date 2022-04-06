@@ -1,3 +1,6 @@
 [submodule "cmsimde"]
 	path = cmsimde
 	url = https://github.com/mdecourse/cmsimde.git
+[submodule "latex"]
+	path = latex
+	url = https://github.com/KmolYuan/latex-paper.git
